@@ -77,6 +77,10 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [SQL Practice](https://www.sql-practice.com/) 
 
+[https://mystery.knightlab.com/]
+
+[https://sqlbolt.com/]
+
 [SQL Bolt](https://sqlbolt.com/)
 
 [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
